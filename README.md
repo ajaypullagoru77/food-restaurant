@@ -90,3 +90,17 @@ Contact
 For any inquiries or feedback, please reach out via GitHub Issues or contact me at ajaykumarpullagoru77@example.com.
 
 Built with 🍴 by Ajay Pullagoru
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOOD RESTARANT</title>
+</head>
+<body>
+    <img src="food restarant.png" width="100%" height="100%">
+
+    </image>
+</body>
+</html>
